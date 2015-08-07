@@ -12,6 +12,7 @@ public class calcAge {
     public int calculateAge(int age) {
 
     ageToMonths = age*12;
+    //ageToMonths = age*12;
 
    return ageToMonths;
    }
